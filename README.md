@@ -1,8 +1,8 @@
-# Crtanje
+# Crtanje 
 
 ![crtanjeIMG](https://user-images.githubusercontent.com/102302011/214085807-05fe0880-5515-44e4-8002-b4b91d68a749.png)
 
 
 
-RP3 domaca zadaca. /n
+RP3 domaca zadaca. 
 Windows Forms app for drawing and editing circles and lines via coding or clicking on Form.
